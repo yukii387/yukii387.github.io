@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Braune Tonne",
+            "emoji": "🍂",
+            "color": "#795548",
+            "recycling_info": "Der Bioabfall wird in Kompostier- oder Vergärungsanlagen verwertet. Dabei entstehen Kompost für die Landwirtschaft sowie Biogas zur Strom- und Wärmegewinnung."
+        },
+        {
+            "id": 2,
+            "name": "Blaue Tonne",
+            "emoji": "📖",
+            "color": "#1488ca",
+            "recycling_info": "Altpapier wird im Recyclingwerk zu Faserbrei aufgelöst, von Farbe und Verunreinigungen befreit und zu neuem Papier, Karton und Pappe verarbeitet. Die Fasern lassen sich etwa zehn- bis 25-mal wiederverwenden."
+        },
+        {
+            "id": 3,
+            "name": "Schwarze Tonne",
+            "emoji": "⚫️",
+            "color": "#1488ca",
+            "recycling_info": "Restmüll wird in Müllverbrennungsanlagen verbrannt. Die dabei entstehende Wärme erzeugt Strom und Fernwärme; Metalle werden aus der Schlacke zurückgewonnen. Recycelt wird der Inhalt nicht, er wird energetisch verwertet."
+        },
+        {
+            "id": 4,
+            "name": "Gelbe Tonne",
+            "emoji": "🎗️",
+            "color": "#ffdc03",
+            "recycling_info": "Verpackungen aus Kunststoff, Metall und Verbundstoffen werden in Sortieranlagen nach Materialart getrennt, gereinigt und zu Rezyklat (Sekundärrohstoff) verarbeitet, aus dem neue Produkte und Verpackungen entstehen."
+        },
+        {
+            "id": 5,
+            "name": "Glascontainer",
+            "emoji": "🫙",
+            "color": "#3d8252",
+            "recycling_info": "Altglas wird nach Farben getrennt gesammelt, gereinigt und eingeschmolzen. Daraus entsteht neues Glas und das nahezu unbegrenzt oft, ohne Qualitätsverlust. Deshalb ist die Farbtrennung so wichtig."
+        },
+        {
+            "id": 6,
+            "name": "Wertstoffhof",
+            "emoji": "🧱",
+            "color": "#d1603e",
+            "recycling_info": "Der Wertstoffhof nimmt Dinge an, die nicht in die Haussammeltonnen gehören, also Sperrmüll, Elektrogeräte, Metall, Bauschutt, Grünschnitt und Schadstoffe. Alles wird getrennt gesammelt und der fachgerechten Verwertung oder Wiederverwendung zugeführt."
+        },      
+        {
+            "id": 7,
+            "name": "Sammelstellen",
+            "emoji": "⚠️",
+            "color": "#e83234",
+            "recycling_info": "An der Sammelstelle werden Problemstoffe wie Batterien, Akkus, Farben, Lacke und Chemikalien sowie Druckbehälter gesondert angenommen. Sie werden fachgerecht und schadlos behandelt, wertvolle Rohstoffe wie Metalle daraus zurückgewonnen."
+        }
+    ]
+}

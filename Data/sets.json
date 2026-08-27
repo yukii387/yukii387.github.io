@@ -1,0 +1,29 @@
+{
+    "data": [
+        { "id": 1,
+         "name": "Kniffliger Müll",
+         "emoji": "🤔",
+         "description": "Müll, der oft falsch sortiert wird.",
+         "filter": {
+             "tricky": true 
+            }
+         },
+         {
+            "id": 2,
+            "name": "Standard Deutschland",
+            "emoji": "🇩🇪",
+            "description": "Klassische Mülltrennung mit Biotonne.",
+            "mapping": {
+                "bio":          1,
+                "papier":       2,
+                "rest":         3, 
+                "verpackung":   4,
+                "altglas":      5,
+                "schad":        [6, 7],
+                "elektro":      [6, 7],
+                "sperr":        6
+            }
+        }
+    ]
+}
+

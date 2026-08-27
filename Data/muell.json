@@ -1,0 +1,173 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Pizzakarton",
+            "emoji": "🍕",
+            "category": "papier",
+            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
+            "stricky": false
+        },
+        {
+            "id": 2,
+            "name": "Kassenbon",
+            "emoji": "🧾",
+            "category": "rest",
+            "reason": "Kassenbons bestehen meist aus Thermopapier, das mit Chemikalien beschichtet ist. Kritische Inhaltsstoffe der enthaltenen Farbentwickler können sich im Altpapier verteilen und über Recyclingprodukte wie Toilettenpapier zurück zum Verbraucher und in die Umwelt gelangen.",
+            "stricky": true
+        },
+        {
+            "id": 3,
+            "name": "Zigaretten Schachtel",
+            "emoji": "🍕",
+            "category": "papier",
+            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
+            "stricky": false
+        },
+        {
+            "id": 4,
+            "name": "Milchkarton",
+            "emoji": "🍕",
+            "category": "papier",
+            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
+            "stricky": true
+        },
+        {
+            "id": 5,
+            "name": "Backpapier",
+            "emoji": "🍕",
+            "category": "papier",
+            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
+            "stricky": true
+        },
+        {
+            "id": 6,
+            "name": "Taschen Tücher",
+            "emoji": "🍕",
+            "category": "papier",
+            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
+            "stricky": false
+        },
+        {
+            "id": 7,
+            "name": "Aluminium Folie",
+            "emoji": "🍕",
+            "category": "papier",
+            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
+            "stricky": false
+        },
+        {
+            "id": 8,
+            "name": "Apfelrest",
+            "emoji": "🍕",
+            "category": "papier",
+            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
+            "stricky": false
+        },
+        {
+            "id": 9,
+            "name": "Zeitung",
+            "emoji": "🍕",
+            "category": "papier",
+            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
+            "stricky": false
+        },
+        {
+            "id": 10,
+            "name": "Konservendose",
+            "emoji": "🍕",
+            "category": "papier",
+            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
+            "stricky": false
+        },
+        {
+            "id": 11,
+            "name": "Weinflasche",
+            "emoji": "🍕",
+            "category": "papier",
+            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
+            "stricky": false
+        },
+        {
+            "id": 12,
+            "name": "Batterie",
+            "emoji": "🍕",
+            "category": "papier",
+            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
+            "stricky": false
+        },
+        {
+            "id": 13,
+            "name": "Bananenschale",
+            "emoji": "🍕",
+            "category": "papier",
+            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
+            "stricky": false
+        },
+        {
+            "id": 14,
+            "name": "Kaffesatz",
+            "emoji": "🍕",
+            "category": "papier",
+            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
+            "stricky": false
+        },
+        {
+            "id": 15,
+            "name": "Joghurtbecher",
+            "emoji": "🍕",
+            "category": "papier",
+            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
+            "stricky": false
+        },
+        {
+            "id": 16,
+            "name": "Pizzakarton",
+            "emoji": "🍕",
+            "category": "papier",
+            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
+            "stricky": false
+        },
+        {
+            "id": 17,
+            "name": "Pizzakarton",
+            "emoji": "🍕",
+            "category": "papier",
+            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
+            "stricky": false
+        },
+        {
+            "id": 18,
+            "name": "Gurkenglas",
+            "emoji": "🍕",
+            "category": "papier",
+            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
+            "stricky": false
+        },
+        {
+            "id": 19,
+            "name": "(halb) volles Sprüh-Deo",
+            "emoji": "🍕",
+            "category": "papier",
+            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
+            "stricky": false
+        },
+        {
+            "id": 20,
+            "name": "Lade Kabel",
+            "emoji": "🍕",
+            "category": "papier",
+            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
+            "stricky": false
+        },
+        {
+            "id": 21,
+            "name": "Luftpolster Folie",
+            "emoji": "🍕",
+            "category": "papier",
+            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
+            "stricky": false
+        }
+
+    ]
+}
