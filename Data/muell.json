@@ -5,8 +5,8 @@
             "name": "Pizzakarton",
             "emoji": "🍕",
             "category": "papier",
-            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
-            "stricky": false
+            "reason": "Nur Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
+            "tricky": false
         },
         {
             "id": 2,
@@ -14,160 +14,399 @@
             "emoji": "🧾",
             "category": "rest",
             "reason": "Kassenbons bestehen meist aus Thermopapier, das mit Chemikalien beschichtet ist. Kritische Inhaltsstoffe der enthaltenen Farbentwickler können sich im Altpapier verteilen und über Recyclingprodukte wie Toilettenpapier zurück zum Verbraucher und in die Umwelt gelangen.",
-            "stricky": true
+            "tricky": true
         },
         {
             "id": 3,
             "name": "Zigaretten Schachtel",
-            "emoji": "🍕",
+            "emoji": "🚬",
             "category": "papier",
-            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
-            "stricky": false
+            "reason": "Die Schachtel besteht aus sauberem, unbeschichtetem Karton und gehört damit ins Altpapier. Die dünne Cellophanfolie zählt jedoch zur Verpackung und gehört in den Gelben Sack.",
+            "tricky": false
         },
         {
             "id": 4,
             "name": "Milchkarton",
-            "emoji": "🍕",
-            "category": "papier",
-            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
-            "stricky": true
+            "emoji": "🥛",
+            "category": "verpack",
+            "reason": "Getränkekartons sind Verbundverpackungen aus Papier, Kunststoff und oft Aluminium. Sie lassen sich nicht im Altpapier verwerten und gehören deshalb in den Gelben Sack bzw. die Wertstofftonne.",
+            "tricky": true
         },
         {
             "id": 5,
             "name": "Backpapier",
-            "emoji": "🍕",
-            "category": "papier",
-            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
-            "stricky": true
+            "emoji": "🧁",
+            "category": "rest",
+            "reason": "Backpapier ist mit Silikon beschichtet und dadurch nicht als Altpapier verwertbar. Es gehört in den Restmüll.",
+            "tricky": true
         },
         {
             "id": 6,
             "name": "Taschen Tücher",
-            "emoji": "🍕",
-            "category": "papier",
-            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
-            "stricky": false
+            "emoji": "🤧",
+            "category": "rest",
+            "reason": "Benutzte Papiertaschentücher sind hygienisch belastet und bestehen aus sehr kurzen Fasern. Sie gehören in den Restmüll und nicht ins Altpapier.",
+            "tricky": true
         },
         {
             "id": 7,
             "name": "Aluminium Folie",
-            "emoji": "🍕",
-            "category": "papier",
-            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
-            "stricky": false
+            "emoji": "🥡",
+            "category": "verpack",
+            "reason": "Saubere Aluminiumfolie ist ein Wertstoff und gehört in den Gelben Sack bzw. die Wertstofftonne. Stark verschmutzte Folie kommt in den Restmüll.",
+            "tricky": false
         },
         {
             "id": 8,
             "name": "Apfelrest",
-            "emoji": "🍕",
-            "category": "papier",
-            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
-            "stricky": false
+            "emoji": "🍎",
+            "category": "bio",
+            "reason": "Obstreste sind organische Küchenabfälle und gehören in die Biotonne, wo sie zu Kompost oder Biogas verwertet werden.",
+            "tricky": false
         },
         {
             "id": 9,
             "name": "Zeitung",
-            "emoji": "🍕",
+            "emoji": "📰",
             "category": "papier",
-            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
-            "stricky": false
+            "reason": "Zeitungen und Zeitschriften sind sauberes, gut recycelbares Altpapier und gehören in die Papiertonne.",
+            "tricky": false
         },
         {
             "id": 10,
             "name": "Konservendose",
-            "emoji": "🍕",
-            "category": "papier",
-            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
-            "stricky": false
+            "emoji": "🥫",
+            "category": "verpack",
+            "reason": "Konservendosen bestehen aus Weißblech, einem wertvollen Metall. Restentleert gehören sie in den Gelben Sack bzw. die Wertstofftonne.",
+            "tricky": false
         },
         {
             "id": 11,
             "name": "Weinflasche",
-            "emoji": "🍕",
-            "category": "papier",
-            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
-            "stricky": false
+            "emoji": "🍷",
+            "category": "glas",
+            "reason": "Flaschen sind Verpackungsglas und gehören nach Farben getrennt in den Altglascontainer.",
+            "tricky": false
         },
         {
             "id": 12,
             "name": "Batterie",
-            "emoji": "🍕",
-            "category": "papier",
-            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
-            "stricky": false
+            "emoji": "🔋",
+            "category": "elektro",
+            "reason": "Batterien enthalten Schadstoffe und wertvolle Rohstoffe. Sie dürfen nicht in den Hausmüll, sondern gehören in die Sammelboxen im Handel oder zum Wertstoff- bzw. Recyclinghof.",
+            "tricky": false
         },
         {
             "id": 13,
             "name": "Bananenschale",
-            "emoji": "🍕",
-            "category": "papier",
-            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
-            "stricky": false
+            "emoji": "🍌",
+            "category": "bio",
+            "reason": "Bananenschalen sind organische Abfälle und gehören in die Biotonne.",
+            "tricky": false
         },
         {
             "id": 14,
             "name": "Kaffesatz",
-            "emoji": "🍕",
-            "category": "papier",
-            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
-            "stricky": false
+            "emoji": "☕",
+            "category": "bio",
+            "reason": "Kaffeesatz gehört samt Papierfilter in die Biotonne, da er vollständig organisch und kompostierbar ist.",
+            "tricky": false
         },
         {
             "id": 15,
             "name": "Joghurtbecher",
-            "emoji": "🍕",
-            "category": "papier",
-            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
-            "stricky": false
+            "emoji": "🥣",
+            "category": "verpack",
+            "reason": "Der Becher ist eine Kunststoffverpackung und gehört restentleert in den Gelben Sack. Deckel und Becher werden am besten getrennt entsorgt.",
+            "tricky": false
         },
         {
             "id": 16,
-            "name": "Pizzakarton",
-            "emoji": "🍕",
-            "category": "papier",
-            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
-            "stricky": false
+            "name": "Einweg Kaffebecher",
+            "emoji": "🥤",
+            "category": "verpack",
+            "reason": "Einwegbecher gelten als Verpackung und gehören in den Gelben Sack. Wegen der Kunststoffbeschichtung sind sie kein Altpapier sondern Verbundsstoff.",
+            "tricky": false
         },
         {
             "id": 17,
-            "name": "Pizzakarton",
-            "emoji": "🍕",
-            "category": "papier",
-            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
-            "stricky": false
+            "name": "Weinglas scherben",
+            "emoji": "🥂",
+            "category": "rest",
+            "reason": "Trinkgläser bestehen aus anderem Glas als Verpackungsglas und haben einen anderen Schmelzpunkt. Sie gehören deshalb nicht ins Altglas, sondern in den Restmüll.",
+            "tricky": false
         },
         {
             "id": 18,
             "name": "Gurkenglas",
-            "emoji": "🍕",
-            "category": "papier",
-            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
-            "stricky": false
+            "emoji": "🫙",
+            "category": "glas",
+            "reason": "Das Konservenglas ist Verpackungsglas und gehört nach Farbe sortiert in den Altglascontainer. Der Deckel kommt in den Gelben Sack.",
+            "tricky": false
         },
         {
             "id": 19,
             "name": "(halb) volles Sprüh-Deo",
-            "emoji": "🍕",
-            "category": "papier",
-            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
-            "stricky": false
+            "emoji": "👃",
+            "category": "schad",
+            "reason": "Nicht restentleerte Druckgasdosen stehen unter Druck und enthalten Reststoffe. Sie gehören zur Schadstoffsammlung.",
+            "tricky": false
         },
         {
             "id": 20,
             "name": "Lade Kabel",
-            "emoji": "🍕",
-            "category": "papier",
-            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
-            "stricky": false
+            "emoji": "🔌",
+            "category": "elektro",
+            "reason": "Kabel sind Elektroschrott und gehören zum Wertstoff- bzw. Recyclinghof oder in die Elektroschrottsammlung.",
+            "tricky": false
         },
         {
             "id": 21,
             "name": "Luftpolster Folie",
-            "emoji": "🍕",
+            "emoji": "🫧",
+            "category": "verpack",
+            "reason": "Luftpolsterfolie ist eine Kunststoffverpackung und gehört in den Gelben Sack.",
+            "tricky": false
+        },
+        {
+            "id": 22,
+            "name": "Porzellan/Keramik",
+            "emoji": "🍽️",
+            "category": "rest",
+            "reason": "Porzellan und Keramik haben einen anderen Schmelzpunkt als Glas und stören das Glasrecycling. Sie gehören in den Restmüll.",
+            "tricky": false
+        },
+        {
+            "id": 23,
+            "name": "Glühbirne",
+            "emoji": "💡",
+            "category": "elektro",
+            "reason": "Ausgediente Glühbirnen werden am Wertstoff- bzw. Recyclinghof zurückgenommen und dort fachgerecht verwertet.",
+            "tricky": false
+        },
+        {
+            "id": 24,
+            "name": "Energiespar-/LED-Lampe",
+            "emoji": "🔆",
+            "category": "schad",
+            "reason": "Energiesparlampen enthalten Quecksilber und müssen als Sondermüll bei der Schadstoffsammlung oder an Rücknahmestellen abgegeben werden.",
+            "tricky": false
+        },
+        {
+            "id": 25,
+            "name": "Zahnbürste",
+            "emoji": "🪥",
+            "category": "rest",
+            "reason": "Zahnbürsten sind hygienisch belastet und gehören deshalb in den Restmüll.",
+            "tricky": true
+        },
+        {
+            "id": 26,
+            "name": "Kugelschreiber",
+            "emoji": "🖊️",
+            "category": "rest",
+            "reason": "Kugelschreiber sind aus verschiedenen, fest verbundenen Materialien und gehören in den Restmüll.",
+            "tricky": false
+        },
+        {
+            "id": 27,
+            "name": "(Kerzen)-wachs",
+            "emoji": "🕯️",
+            "category": "rest",
+            "reason": "Wachsreste gehören in den Restmüll. Sie sind kein Biomüll, da sie nicht kompostierbar sind.",
+            "tricky": false
+        },
+        {
+            "id": 28,
+            "name": "Tee-(beutel)",
+            "emoji": "🍵",
+            "category": "bio",
+            "reason": "Teebeutel und Teereste sind organisch und gehören in die Biotonne. Metallklammern und Kunststoffanteile mancher Beutel sollten möglichst entfernt werden.",
+            "tricky": false
+        },
+        {
+            "id": 29,
+            "name": "Grünschnitt",
+            "emoji": "🌿",
+            "category": "bio",
+            "reason": "Pflanzen- und Grünschnitt gehört in die Biotonne oder auf den Kompost; größere Mengen zum Wertstoffhof.",
+            "tricky": false
+        },
+        {
+            "id": 30,
+            "name": "Kronkorken",
+            "emoji": "🍺",
+            "category": "verpack",
+            "reason": "Kronkorken sind Metall und gehören in den Gelben Sack bzw. die Wertstofftonne.",
+            "tricky": false
+        },
+        {
+            "id": 31,
+            "name": "Geschenkpapier",
+            "emoji": "🎁",
             "category": "papier",
-            "reason": "Unbeschichtete und saubere Kartons können im Altpapierkreislauf verwertet werden.",
-            "stricky": false
+            "reason": "Unbeschichtetes Geschenkpapier gehört ins Altpapier. Beschichtetes, foliertes oder glänzendes Papier gehört dagegen in den Restmüll.",
+            "tricky": false
+        },
+        {
+            "id": 32,
+            "name": "Zahnpastatube",
+            "emoji": "🦷",
+            "category": "verpack",
+            "reason": "Die leere Tube ist eine Verpackung und gehört in den Gelben Sack.",
+            "tricky": false
+        },
+        {
+            "id": 33,
+            "name": "Tablettenblister",
+            "emoji": "💊",
+            "category": "verpack",
+            "reason": "Blister sind ein Verbund aus Aluminium und Kunststoff und gehören als Verpackung in den Gelben Sack.",
+            "tricky": false
+        },
+        {
+            "id": 34,
+            "name": "Chipstüte",
+            "emoji": "🍟",
+            "category": "verpack",
+            "reason": "Chipstüten sind Verbundverpackungen aus Kunststoff und gehören in den Gelben Sack.",
+            "tricky": false
+        },
+        {
+            "id": 35,
+            "name": "leere Sprühdose",
+            "emoji": "💨",
+            "category": "verpack",
+            "reason": "Restentleerte Sprühdosen gelten als Verpackung und gehören in den Gelben Sack. Noch gefüllte Dosen dagegen in die Schadstoffsammlung.",
+            "tricky": false
+        },
+        {
+            "id": 36,
+            "name": "Handy",
+            "emoji": "📱",
+            "category": "elektro",
+            "reason": "Handys sind Elektroschrott und enthalten wertvolle Rohstoffe. Sie gehören zu Rücknahmestellen oder zum Wertstoff- bzw. Recyclinghof.",
+            "tricky": false
+        },
+        {
+            "id": 37,
+            "name": "Staubsauger",
+            "emoji": "🧹",
+            "category": "elektro",
+            "reason": "Elektrogeräte wie Staubsauger gehören zum Elektroschrott und werden in größeren Elektronik Geschäften bzw. beim Wertstoffhof zurückgenommen.",
+            "tricky": false
+        },
+        {
+            "id": 38,
+            "name": "abgelaufene Medikamente",
+            "emoji": "💉",
+            "category": "schad",
+            "reason": "Abgelaufene Medikamente gehören zur Schadstoffsammlung bzw. an Rücknahmestellen wie zum Beispiel Apotheken und dürfen keinesfalls über die Toilette ins Abwasser gelangen.",
+            "tricky": false
+        },
+        {
+            "id": 39,
+            "name": "Lackreste",
+            "emoji": "🎨",
+            "category": "schad",
+            "reason": "Lack- und Farbreste enthalten Lösungsmittel und Schadstoffe und gehören zur Schadstoffsammlung.",
+            "tricky": false
+        },
+        {
+            "id": 40,
+            "name": "Plastik Spielzeug",
+            "emoji": "🧸",
+            "category": "rest",
+            "reason": "Spielzeug ist keine Verpackung und lässt sich meist nicht recyceln. Es gehört in den Restmüll, größere Teile zum Wertstoffhof.",
+            "tricky": false
+        },
+        {
+            "id": 41,
+            "name": "Fleischreste",
+            "emoji": "🍖",
+            "category": "rest",
+            "reason": "Gekochte Speise- und Fleischreste können Schädlinge und Gerüche verursachen und gehören in den Restmüll.",
+            "tricky": false
+        },
+        {
+            "id": 42,
+            "name": "Kassetten",
+            "emoji": "📼",
+            "category": "elektro",
+            "reason": "Kassetten und Tonbänder zählen zum Elektroschrott und gehören zum Wertstoff- bzw. Recyclinghof.",
+            "tricky": false
+        },
+        {
+            "id": 43,
+            "name": "Einweg Feuerzeug",
+            "emoji": "🔥",
+            "category": "rest",
+            "reason": "Restentleerte Einwegfeuerzeuge gehören in den Restmüll. Noch gefüllte Feuerzeuge werden besser zur Schadstoffsammlung gegeben.",
+            "tricky": false
+        },
+        {
+            "id": 44,
+            "name": "Lösungsmittel",
+            "emoji": "🧪",
+            "category": "schad",
+            "reason": "Lösungsmittel sind gefährliche Abfälle und gehören zwingend zur Schadstoffsammlung.",
+            "tricky": false
+        },
+        {
+            "id": 45,
+            "name": "Tapetenreste",
+            "emoji": "🧱",
+            "category": "rest",
+            "reason": "Tapeten sind beschichtet bzw. verklebt und nicht als Altpapier verwertbar. Sie gehören in den Restmüll.",
+            "tricky": false
+        },
+        {
+            "id": 46,
+            "name": "Fotopapier",
+            "emoji": "📸",
+            "category": "rest",
+            "reason": "Fotopapier ist beschichtet und lässt sich nicht recyceln. Es gehört in den Restmüll.",
+            "tricky": false
+        },
+        {
+            "id": 47,
+            "name": "Blumenerde",
+            "emoji": "🪴",
+            "category": "bio",
+            "reason": "Alte Blumenerde ist organisch und gehört in die Biotonne oder auf den Kompost.",
+            "tricky": false
+        },
+        {
+            "id": 48,
+            "name": "Einweg Rasierer",
+            "emoji": "🪒",
+            "category": "rest",
+            "reason": "Einwegrasierer bestehen aus fest verbundenem Kunststoff und Metall und gehören in den Restmüll.",
+            "tricky": false
+        },
+        {
+            "id": 49,
+            "name": "Draht",
+            "emoji": "🔗",
+            "category": "sperr",
+            "reason": "Metalldraht gehört zum Altmetall und wird über den Wertstoff- bzw. Recyclinghof entsorgt; größere Mengen über Sperrmüll bzw. Schrottsammlung.",
+            "tricky": false
+        },
+        {
+            "id": 50,
+            "name": "Alte Socken",
+            "emoji": "🧦",
+            "category": "rest",
+            "reason": "Einzelne, verschlissene Socken gehören in den Restmüll.",
+            "tricky": false
+        },
+        {
+            "id": 51,
+            "name": "CDs/DVDs",
+            "emoji": "💿",
+            "category": "elektro",
+            "reason": "CDs und DVDs zählen zum Elektroschrott bzw. gehören zu speziellen Sammelstellen und nicht in den Hausmüll.",
+            "tricky": false
         }
-
     ]
 }

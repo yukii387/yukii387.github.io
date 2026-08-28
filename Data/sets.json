@@ -17,11 +17,43 @@
                 "bio":          1,
                 "papier":       2,
                 "rest":         3, 
-                "verpackung":   4,
-                "altglas":      5,
+                "verpack":      4,
+                "glas":         5,
                 "schad":        [6, 7],
                 "elektro":      [6, 7],
                 "sperr":        6
+            }
+        },
+        {
+            "id": 9,
+            "name": "Region ohne Biotonne",
+            "emoji": "🚮",
+            "description": "Standart Deutsche Trennung nur ohne Biotonne",
+            "mapping": {
+                "bio": 3,
+                "papier": 2,
+                "rest": 3,
+                "verpack": 4,
+                "glas": 5,
+                "schad": [6, 7],
+                "elektro": [6, 7],
+                "sperr": 6
+            }
+        },
+        {
+            "id": 2,
+            "name": "Hausmüll",
+            "emoji": "🇩🇪",
+            "description": "Klassische Mülltrennung innerhalb der eigenen vier Wände.",
+            "mapping": {
+                "bio":          1,
+                "papier":       2,
+                "rest":         3, 
+                "verpack":      4,
+                "glas":         7,
+                "schad":        7,
+                "elektro":      7,
+                "sperr":        7
             }
         }
     ]
