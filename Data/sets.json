@@ -4,6 +4,16 @@
          "name": "Kniffliger Müll",
          "emoji": "🤔",
          "description": "Müll, der oft falsch sortiert wird.",
+        "mapping": {
+            "bio":          1,
+            "papier":       2,
+            "rest":         3, 
+            "verpack":      4,
+            "glas":         5,
+            "schad":        [6, 7],
+            "elektro":      [6, 7],
+            "sperr":        6
+            },
          "filter": {
              "tricky": true 
             }
@@ -25,7 +35,7 @@
             }
         },
         {
-            "id": 9,
+            "id": 3,
             "name": "Region ohne Biotonne",
             "emoji": "🚮",
             "description": "Standart Deutsche Trennung nur ohne Biotonne",
@@ -41,7 +51,7 @@
             }
         },
         {
-            "id": 2,
+            "id": 4,
             "name": "Hausmüll",
             "emoji": "🏡",
             "description": "Klassische Mülltrennung innerhalb der eigenen vier Wände.",
