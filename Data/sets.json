@@ -38,7 +38,7 @@
             "id": 3,
             "name": "Region ohne Biotonne",
             "emoji": "🚮",
-            "description": "Standart Deutsche Trennung nur ohne Biotonne",
+            "description": "Standard Deutsche Trennung nur ohne Biotonne",
             "mapping": {
                 "bio": 3,
                 "papier": 2,

@@ -18,7 +18,7 @@
         },
         {
             "id": 3,
-            "name": "Zigaretten Schachtel",
+            "name": "Zigarettenschachtel",
             "emoji": "🚬",
             "category": "papier",
             "reason": "Die Schachtel besteht aus sauberem, unbeschichtetem Karton und gehört damit ins Altpapier. Die dünne Cellophanfolie zählt jedoch zur Verpackung und gehört in den Gelben Sack.",
@@ -42,7 +42,7 @@
         },
         {
             "id": 6,
-            "name": "Taschen Tücher",
+            "name": "Taschentücher",
             "emoji": "🤧",
             "category": "rest",
             "reason": "Benutzte Papiertaschentücher sind hygienisch belastet und bestehen aus sehr kurzen Fasern. Sie gehören in den Restmüll und nicht ins Altpapier.",
@@ -50,7 +50,7 @@
         },
         {
             "id": 7,
-            "name": "Aluminium Folie",
+            "name": "Aluminiumfolie",
             "emoji": "🥡",
             "category": "verpack",
             "reason": "Saubere Aluminiumfolie ist ein Wertstoff und gehört in den Gelben Sack bzw. die Wertstofftonne. Stark verschmutzte Folie kommt in den Restmüll.",
@@ -106,7 +106,7 @@
         },
         {
             "id": 14,
-            "name": "Kaffesatz",
+            "name": "Kaffeesatz",
             "emoji": "☕",
             "category": "bio",
             "reason": "Kaffeesatz gehört samt Papierfilter in die Biotonne, da er vollständig organisch und kompostierbar ist.",
@@ -122,7 +122,7 @@
         },
         {
             "id": 16,
-            "name": "Einweg Kaffebecher",
+            "name": "Einwegkaffeebecher",
             "emoji": "🥤",
             "category": "verpack",
             "reason": "Einwegbecher gelten als Verpackung und gehören in den Gelben Sack. Wegen der Kunststoffbeschichtung sind sie kein Altpapier sondern Verbundsstoff.",
@@ -130,7 +130,7 @@
         },
         {
             "id": 17,
-            "name": "Weinglas scherben",
+            "name": "Weinglasscherben",
             "emoji": "🥂",
             "category": "rest",
             "reason": "Trinkgläser bestehen aus anderem Glas als Verpackungsglas und haben einen anderen Schmelzpunkt. Sie gehören deshalb nicht ins Altglas, sondern in den Restmüll.",
@@ -154,7 +154,7 @@
         },
         {
             "id": 20,
-            "name": "Lade Kabel",
+            "name": "Ladekabel",
             "emoji": "🔌",
             "category": "elektro",
             "reason": "Kabel sind Elektroschrott und gehören zum Wertstoff- bzw. Recyclinghof oder in die Elektroschrottsammlung.",
@@ -162,7 +162,7 @@
         },
         {
             "id": 21,
-            "name": "Luftpolster Folie",
+            "name": "Luftpolsterfolie",
             "emoji": "🫧",
             "category": "verpack",
             "reason": "Luftpolsterfolie ist eine Kunststoffverpackung und gehört in den Gelben Sack.",
@@ -314,7 +314,7 @@
         },
         {
             "id": 40,
-            "name": "Plastik Spielzeug",
+            "name": "Plastikspielzeug",
             "emoji": "🧸",
             "category": "rest",
             "reason": "Spielzeug ist keine Verpackung und lässt sich meist nicht recyceln. Es gehört in den Restmüll, größere Teile zum Wertstoffhof.",
@@ -338,7 +338,7 @@
         },
         {
             "id": 43,
-            "name": "Einweg Feuerzeug",
+            "name": "Einwegfeuerzeug",
             "emoji": "🔥",
             "category": "rest",
             "reason": "Restentleerte Einwegfeuerzeuge gehören in den Restmüll. Noch gefüllte Feuerzeuge werden besser zur Schadstoffsammlung gegeben.",
@@ -378,7 +378,7 @@
         },
         {
             "id": 48,
-            "name": "Einweg Rasierer",
+            "name": "Einwegrasierer",
             "emoji": "🪒",
             "category": "rest",
             "reason": "Einwegrasierer bestehen aus fest verbundenem Kunststoff und Metall und gehören in den Restmüll.",
