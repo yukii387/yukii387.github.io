@@ -43,7 +43,7 @@
         {
             "id": 2,
             "name": "Hausmüll",
-            "emoji": "🇩🇪",
+            "emoji": "🏡",
             "description": "Klassische Mülltrennung innerhalb der eigenen vier Wände.",
             "mapping": {
                 "bio":          1,
