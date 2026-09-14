@@ -94,7 +94,7 @@
             "emoji": "🔋",
             "category": "elektro",
             "reason": "Batterien enthalten Schadstoffe und wertvolle Rohstoffe. Sie dürfen nicht in den Hausmüll, sondern gehören in die Sammelboxen im Handel oder zum Wertstoff- bzw. Recyclinghof.",
-            "tricky": false
+            "tricky": true
         },
         {
             "id": 13,
@@ -126,7 +126,7 @@
             "emoji": "🥤",
             "category": "verpack",
             "reason": "Einwegbecher gelten als Verpackung und gehören in den Gelben Sack. Wegen der Kunststoffbeschichtung sind sie kein Altpapier sondern Verbundsstoff.",
-            "tricky": false
+            "tricky": true
         },
         {
             "id": 17,
@@ -190,7 +190,7 @@
             "emoji": "🔆",
             "category": "schad",
             "reason": "Energiesparlampen enthalten Quecksilber und müssen als Sondermüll bei der Schadstoffsammlung oder an Rücknahmestellen abgegeben werden.",
-            "tricky": false
+            "tricky": true
         },
         {
             "id": 25,
@@ -302,7 +302,7 @@
             "emoji": "💉",
             "category": "schad",
             "reason": "Abgelaufene Medikamente gehören zur Schadstoffsammlung bzw. an Rücknahmestellen wie zum Beispiel Apotheken und dürfen keinesfalls über die Toilette ins Abwasser gelangen.",
-            "tricky": false
+            "tricky": true
         },
         {
             "id": 39,
@@ -318,15 +318,15 @@
             "emoji": "🧸",
             "category": "rest",
             "reason": "Spielzeug ist keine Verpackung und lässt sich meist nicht recyceln. Es gehört in den Restmüll, größere Teile zum Wertstoffhof.",
-            "tricky": false
+            "tricky": true
         },
         {
             "id": 41,
             "name": "Fleischreste",
             "emoji": "🍖",
             "category": "rest",
-            "reason": "Gekochte Speise- und Fleischreste können Schädlinge und Gerüche verursachen und gehören in den Restmüll.",
-            "tricky": false
+            "reason": "Gekochte Speise- und Fleischreste können Schädlinge anziehen und Gerüche verursachen und gehören in den Restmüll.",
+            "tricky": true
         },
         {
             "id": 42,
@@ -334,7 +334,7 @@
             "emoji": "📼",
             "category": "elektro",
             "reason": "Kassetten und Tonbänder zählen zum Elektroschrott und gehören zum Wertstoff- bzw. Recyclinghof.",
-            "tricky": false
+            "tricky": true
         },
         {
             "id": 43,
@@ -342,7 +342,7 @@
             "emoji": "🔥",
             "category": "rest",
             "reason": "Restentleerte Einwegfeuerzeuge gehören in den Restmüll. Noch gefüllte Feuerzeuge werden besser zur Schadstoffsammlung gegeben.",
-            "tricky": false
+            "tricky": true
         },
         {
             "id": 44,
@@ -358,7 +358,7 @@
             "emoji": "🧱",
             "category": "rest",
             "reason": "Tapeten sind beschichtet bzw. verklebt und nicht als Altpapier verwertbar. Sie gehören in den Restmüll.",
-            "tricky": false
+            "tricky": true
         },
         {
             "id": 46,
@@ -366,7 +366,7 @@
             "emoji": "📸",
             "category": "rest",
             "reason": "Fotopapier ist beschichtet und lässt sich nicht recyceln. Es gehört in den Restmüll.",
-            "tricky": false
+            "tricky": true
         },
         {
             "id": 47,
@@ -382,7 +382,7 @@
             "emoji": "🪒",
             "category": "rest",
             "reason": "Einwegrasierer bestehen aus fest verbundenem Kunststoff und Metall und gehören in den Restmüll.",
-            "tricky": false
+            "tricky": true
         },
         {
             "id": 49,
@@ -407,6 +407,14 @@
             "category": "elektro",
             "reason": "CDs und DVDs zählen zum Elektroschrott bzw. gehören zu speziellen Sammelstellen und nicht in den Hausmüll.",
             "tricky": false
+        },
+        {
+            "id": 52,
+            "name": "(Diabetis-) Spritzen",
+            "emoji": "💉",
+            "category": "rest",
+            "reason": "Alle Spritzen, Kanülen und sonstiges Zubehör gehört in eine Fest verschlossene Hartplastik box und kann danach im Restmüll entsorgt werden.",
+            "tricky": true
         }
     ]
 }
