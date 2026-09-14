@@ -415,6 +415,30 @@
             "category": "rest",
             "reason": "Alle Spritzen, Kanülen und sonstiges Zubehör gehört in eine Fest verschlossene Hartplastik box und kann danach im Restmüll entsorgt werden.",
             "tricky": true
+        },
+        {
+            "id": 54,
+            "name": "Pflaster",
+            "emoji": "🩹",
+            "category": "rest",
+            "reason": "Pflaster sind Hygiensich belastet und gehören deshalb in den Restmüll.",
+            "tricky": true
+        },
+        {
+            "id": 55,
+            "name": "Putzmittelflasche",
+            "emoji": "🧼",
+            "category": "verpack",
+            "reason": "Auch Putzmittelflaschen gehören zum verpackungsmaterial deswgen gelber sack.",
+            "tricky": false
+        },
+        {
+            "id": 56,
+            "name": "Tierfutterdosen/ -tüten",
+            "emoji": "🐱",
+            "category": "verpack",
+            "reason": "Tierfutterdosen und tüten sind Verpackungsmaterial deshalb gehören sie in den gelben Sack.",
+            "tricky": false
         }
     ]
 }
