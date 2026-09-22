@@ -114,7 +114,7 @@
         },
         {
             "id": 15,
-            "name": "Joghurtbecher",
+            "name": "Joghurt Becher",
             "emoji": "🥣",
             "category": "verpack",
             "reason": "Der Becher ist eine Kunststoffverpackung und gehört restentleert in den Gelben Sack. Deckel und Becher werden am besten getrennt entsorgt.",
@@ -122,7 +122,7 @@
         },
         {
             "id": 16,
-            "name": "Einwegkaffeebecher",
+            "name": "Einweg Becher",
             "emoji": "🥤",
             "category": "verpack",
             "reason": "Einwegbecher gelten als Verpackung und gehören in den Gelben Sack. Wegen der Kunststoffbeschichtung sind sie kein Altpapier sondern Verbundsstoff.",
@@ -130,7 +130,7 @@
         },
         {
             "id": 17,
-            "name": "Weinglasscherben",
+            "name": "Weinglas Scherben",
             "emoji": "🥂",
             "category": "rest",
             "reason": "Trinkgläser bestehen aus anderem Glas als Verpackungsglas und haben einen anderen Schmelzpunkt. Sie gehören deshalb nicht ins Altglas, sondern in den Restmüll.",
@@ -146,7 +146,7 @@
         },
         {
             "id": 19,
-            "name": "(halb) volles Sprüh-Deo",
+            "name": "(Halb) Volles Sprüh-Deo",
             "emoji": "👃",
             "category": "schad",
             "reason": "Nicht restentleerte Druckgasdosen stehen unter Druck und enthalten Reststoffe. Sie gehören zur Schadstoffsammlung.",
@@ -170,7 +170,7 @@
         },
         {
             "id": 22,
-            "name": "Porzellan/Keramik",
+            "name": "Porzellan /Keramik",
             "emoji": "🍽️",
             "category": "rest",
             "reason": "Porzellan und Keramik haben einen anderen Schmelzpunkt als Glas und stören das Glasrecycling. Sie gehören in den Restmüll.",
@@ -186,7 +186,7 @@
         },
         {
             "id": 24,
-            "name": "Energiespar-/LED-Lampe",
+            "name": "Energiespar- /LED-Lampe",
             "emoji": "🔆",
             "category": "schad",
             "reason": "Energiesparlampen enthalten Quecksilber und müssen als Sondermüll bei der Schadstoffsammlung oder an Rücknahmestellen abgegeben werden.",
@@ -210,7 +210,7 @@
         },
         {
             "id": 27,
-            "name": "(Kerzen)-wachs",
+            "name": "(Kerzen) -wachs",
             "emoji": "🕯️",
             "category": "rest",
             "reason": "Wachsreste gehören in den Restmüll. Sie sind kein Biomüll, da sie nicht kompostierbar sind.",
@@ -218,7 +218,7 @@
         },
         {
             "id": 28,
-            "name": "Tee-(beutel)",
+            "name": "Tee- (beutel)",
             "emoji": "🍵",
             "category": "bio",
             "reason": "Teebeutel und Teereste sind organisch und gehören in die Biotonne. Metallklammern und Kunststoffanteile mancher Beutel sollten möglichst entfernt werden.",
@@ -258,7 +258,7 @@
         },
         {
             "id": 33,
-            "name": "Tablettenblister",
+            "name": "Tabletten Blister",
             "emoji": "💊",
             "category": "verpack",
             "reason": "Blister sind ein Verbund aus Aluminium und Kunststoff und gehören als Verpackung in den Gelben Sack.",
@@ -274,7 +274,7 @@
         },
         {
             "id": 35,
-            "name": "leere Sprühdose",
+            "name": "Leere Sprühdose",
             "emoji": "💨",
             "category": "verpack",
             "reason": "Restentleerte Sprühdosen gelten als Verpackung und gehören in den Gelben Sack. Noch gefüllte Dosen dagegen in die Schadstoffsammlung.",
@@ -298,7 +298,7 @@
         },
         {
             "id": 38,
-            "name": "abgelaufene Medikamente",
+            "name": "Abgelaufene Medikamente",
             "emoji": "💉",
             "category": "schad",
             "reason": "Abgelaufene Medikamente gehören zur Schadstoffsammlung bzw. an Rücknahmestellen wie zum Beispiel Apotheken und dürfen keinesfalls über die Toilette ins Abwasser gelangen.",
@@ -314,8 +314,8 @@
         },
         {
             "id": 40,
-            "name": "Plastikspielzeug",
-            "emoji": "🧸",
+            "name": "Plastik Spielzeug",
+            "emoji": "🚗",
             "category": "rest",
             "reason": "Spielzeug ist keine Verpackung und lässt sich meist nicht recyceln. Es gehört in den Restmüll, größere Teile zum Wertstoffhof.",
             "tricky": true
@@ -378,7 +378,7 @@
         },
         {
             "id": 48,
-            "name": "Einwegrasierer",
+            "name": "Einweg Rasierer",
             "emoji": "🪒",
             "category": "rest",
             "reason": "Einwegrasierer bestehen aus fest verbundenem Kunststoff und Metall und gehören in den Restmüll.",
@@ -402,7 +402,7 @@
         },
         {
             "id": 51,
-            "name": "CDs/DVDs",
+            "name": "CDs /DVDs",
             "emoji": "💿",
             "category": "elektro",
             "reason": "CDs und DVDs zählen zum Elektroschrott bzw. gehören zu speziellen Sammelstellen und nicht in den Hausmüll.",
@@ -426,7 +426,7 @@
         },
         {
             "id": 55,
-            "name": "Putzmittelflasche",
+            "name": "Putzmittel Flasche",
             "emoji": "🧼",
             "category": "verpack",
             "reason": "Auch Putzmittelflaschen gehören zum verpackungsmaterial deswgen gelber sack.",
@@ -434,7 +434,7 @@
         },
         {
             "id": 56,
-            "name": "Tierfutterdosen/ -tüten",
+            "name": "Tierfutterdosen /-tüten",
             "emoji": "🐱",
             "category": "verpack",
             "reason": "Tierfutterdosen und tüten sind Verpackungsmaterial deshalb gehören sie in den gelben Sack.",
