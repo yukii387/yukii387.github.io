@@ -30,21 +30,21 @@
         },
         {
             "id": 5,
-            "name": "Glascontainer",
+            "name": "Glas Container",
             "emoji": "🫙",
             "color": "#3d8252",
             "recycling_info": "Altglas wird nach Farben getrennt gesammelt, gereinigt und eingeschmolzen. Daraus entsteht neues Glas und das nahezu unbegrenzt oft, ohne Qualitätsverlust. Deshalb ist die Farbtrennung so wichtig."
         },
         {
             "id": 6,
-            "name": "Wertstoffhof",
+            "name": "Wertstoff Hof",
             "emoji": "🧱",
             "color": "#d1603e",
             "recycling_info": "Der Wertstoffhof nimmt Dinge an, die nicht in die Haussammeltonnen gehören, also Sperrmüll, Elektrogeräte, Metall, Bauschutt, Grünschnitt und Schadstoffe. Alles wird getrennt gesammelt und der fachgerechten Verwertung oder Wiederverwendung zugeführt."
         },      
         {
             "id": 7,
-            "name": "Sammelstellen",
+            "name": "Sammel Stellen",
             "emoji": "⚠️",
             "color": "#e83234",
             "recycling_info": "An der Sammelstelle werden Problemstoffe wie Batterien, Akkus, Farben, Lacke und Chemikalien sowie Druckbehälter gesondert angenommen. Sie werden fachgerecht und schadlos behandelt, wertvolle Rohstoffe wie Metalle daraus zurückgewonnen."
