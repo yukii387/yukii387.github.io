@@ -114,7 +114,7 @@
         },
         {
             "id": 15,
-            "name": "Joghurt Becher",
+            "name": "Joghurtbecher",
             "emoji": "🥣",
             "category": "verpack",
             "reason": "Der Becher ist eine Kunststoffverpackung und gehört restentleert in den Gelben Sack. Deckel und Becher werden am besten getrennt entsorgt.",
@@ -122,7 +122,7 @@
         },
         {
             "id": 16,
-            "name": "Einweg Becher",
+            "name": "Einwegbecher",
             "emoji": "🥤",
             "category": "verpack",
             "reason": "Einwegbecher gelten als Verpackung und gehören in den Gelben Sack. Wegen der Kunststoffbeschichtung sind sie kein Altpapier, sondern Verbundstoff.",
@@ -307,7 +307,7 @@
         {
             "id": 39,
             "name": "Abgelaufene Medikamente",
-            "emoji": "💉",
+            "emoji": "💊",
             "category": "schad",
             "reason": "Abgelaufene Medikamente gehören zur Schadstoffsammlung bzw. an Rücknahmestellen wie zum Beispiel Apotheken und dürfen keinesfalls über die Toilette ins Abwasser gelangen.",
             "tricky": true
@@ -333,7 +333,7 @@
             "name": "Fleischreste",
             "emoji": "🍖",
             "category": "rest",
-            "reason": "Gekochte Speise- und Fleischreste können Schädlinge anziehen und Gerüche verursachen und gehören in den Restmüll.",
+            "reason": "Gekochte und rohe Fleischreste können Schädlinge anziehen und Gerüche verursachen und gehören in den Restmüll.",
             "tricky": true
         },
         {
@@ -341,7 +341,7 @@
             "name": "Kassetten",
             "emoji": "📼",
             "category": "elektro",
-            "reason": "Kassetten und Tonbänder zählen zum Elektroschrott und gehören zum Wertstoff- bzw. Recyclinghof.",
+            "reason": "Kassetten und Tonbänder zählen zum Elektroschrott und gehören zum Wertstoff- bzw. Recyclinghof oder zu entsprechenden annahmestellen.",
             "tricky": true
         },
         {
@@ -397,7 +397,7 @@
             "name": "Draht",
             "emoji": "🔗",
             "category": "sperr",
-            "reason": "Metalldraht gehört zum Altmetall und wird über den Wertstoff- bzw. Recyclinghof entsorgt; größere Mengen über Sperrmüll bzw. Schrottsammlung.",
+            "reason": "Metalldraht gehört zum Altmetall und wird über den Restmüll entsorgt; größere Mengen gehören jedoch auf den Wertstoffhof.",
             "tricky": false
         },
         {
