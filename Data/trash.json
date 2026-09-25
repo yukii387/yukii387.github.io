@@ -125,7 +125,7 @@
             "name": "Einweg Becher",
             "emoji": "🥤",
             "category": "verpack",
-            "reason": "Einwegbecher gelten als Verpackung und gehören in den Gelben Sack. Wegen der Kunststoffbeschichtung sind sie kein Altpapier sondern Verbundsstoff.",
+            "reason": "Einwegbecher gelten als Verpackung und gehören in den Gelben Sack. Wegen der Kunststoffbeschichtung sind sie kein Altpapier, sondern Verbundstoff.",
             "tricky": true
         },
         {
@@ -418,7 +418,7 @@
         },
         {
             "id": 53,
-            "name": "(Diabetis-) Spritzen",
+            "name": "(Diabetes-) Spritzen",
             "emoji": "💉",
             "category": "rest",
             "reason": "Alle Spritzen, Kanülen und sonstiges Zubehör gehört in eine Fest verschlossene Hartplastik box und kann danach im Restmüll entsorgt werden.",
@@ -429,7 +429,7 @@
             "name": "Pflaster",
             "emoji": "🩹",
             "category": "rest",
-            "reason": "Pflaster sind Hygiensich belastet und gehören deshalb in den Restmüll.",
+            "reason": "Pflaster sind hygienisch belastet und gehören deshalb in den Restmüll.",
             "tricky": true
         },
         {
@@ -437,7 +437,7 @@
             "name": "Putzmittel Flasche",
             "emoji": "🧼",
             "category": "verpack",
-            "reason": "Auch Putzmittelflaschen gehören zum verpackungsmaterial deswgen gelber sack.",
+            "reason": "Auch Putzmittelflaschen gehören zum verpackungsmaterial deswegen gelber sack.",
             "tricky": false
         },
         {
