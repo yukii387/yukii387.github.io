@@ -186,7 +186,7 @@
         },
         {
             "id": 24,
-            "name": "Energiespar- /LED-Lampe",
+            "name": "Energiesparlampe",
             "emoji": "🔆",
             "category": "schad",
             "reason": "Energiesparlampen enthalten Quecksilber und müssen als Sondermüll bei der Schadstoffsammlung oder an Rücknahmestellen abgegeben werden.",
@@ -194,6 +194,14 @@
         },
         {
             "id": 25,
+            "name": "LED-Lampe",
+            "emoji": "🛋️",
+            "category": "elektro",
+            "reason": "Durch die Leuchtdioden fallen LED‑Lampen unter das Elektronikgesetz und müssen deswegen bei einer geeigneten Sammelstelle abgegeben werden.",
+            "tricky": true
+        },
+        {
+            "id": 26,
             "name": "Zahnbürste",
             "emoji": "🪥",
             "category": "rest",
@@ -201,7 +209,7 @@
             "tricky": true
         },
         {
-            "id": 26,
+            "id": 27,
             "name": "Kugelschreiber",
             "emoji": "🖊️",
             "category": "rest",
@@ -209,7 +217,7 @@
             "tricky": false
         },
         {
-            "id": 27,
+            "id": 28,
             "name": "(Kerzen) -wachs",
             "emoji": "🕯️",
             "category": "rest",
@@ -217,7 +225,7 @@
             "tricky": false
         },
         {
-            "id": 28,
+            "id": 29,
             "name": "Tee- (beutel)",
             "emoji": "🍵",
             "category": "bio",
@@ -225,7 +233,7 @@
             "tricky": false
         },
         {
-            "id": 29,
+            "id": 30,
             "name": "Grünschnitt",
             "emoji": "🌿",
             "category": "bio",
@@ -233,7 +241,7 @@
             "tricky": false
         },
         {
-            "id": 30,
+            "id": 31,
             "name": "Kronkorken",
             "emoji": "🍺",
             "category": "verpack",
@@ -241,7 +249,7 @@
             "tricky": false
         },
         {
-            "id": 31,
+            "id": 32,
             "name": "Geschenkpapier",
             "emoji": "🎁",
             "category": "papier",
@@ -249,7 +257,7 @@
             "tricky": false
         },
         {
-            "id": 32,
+            "id": 33,
             "name": "Zahnpastatube",
             "emoji": "🦷",
             "category": "verpack",
@@ -257,7 +265,7 @@
             "tricky": false
         },
         {
-            "id": 33,
+            "id": 34,
             "name": "Tabletten Blister",
             "emoji": "💊",
             "category": "verpack",
@@ -265,7 +273,7 @@
             "tricky": false
         },
         {
-            "id": 34,
+            "id": 35,
             "name": "Chipstüte",
             "emoji": "🍟",
             "category": "verpack",
@@ -273,7 +281,7 @@
             "tricky": false
         },
         {
-            "id": 35,
+            "id": 36,
             "name": "Leere Sprühdose",
             "emoji": "💨",
             "category": "verpack",
@@ -281,7 +289,7 @@
             "tricky": false
         },
         {
-            "id": 36,
+            "id": 37,
             "name": "Handy",
             "emoji": "📱",
             "category": "elektro",
@@ -289,7 +297,7 @@
             "tricky": false
         },
         {
-            "id": 37,
+            "id": 38,
             "name": "Staubsauger",
             "emoji": "🧹",
             "category": "elektro",
@@ -297,7 +305,7 @@
             "tricky": false
         },
         {
-            "id": 38,
+            "id": 39,
             "name": "Abgelaufene Medikamente",
             "emoji": "💉",
             "category": "schad",
@@ -305,7 +313,7 @@
             "tricky": true
         },
         {
-            "id": 39,
+            "id": 40,
             "name": "Lackreste",
             "emoji": "🎨",
             "category": "schad",
@@ -313,7 +321,7 @@
             "tricky": false
         },
         {
-            "id": 40,
+            "id": 41,
             "name": "Plastik Spielzeug",
             "emoji": "🚗",
             "category": "rest",
@@ -321,7 +329,7 @@
             "tricky": true
         },
         {
-            "id": 41,
+            "id": 42,
             "name": "Fleischreste",
             "emoji": "🍖",
             "category": "rest",
@@ -329,7 +337,7 @@
             "tricky": true
         },
         {
-            "id": 42,
+            "id": 43,
             "name": "Kassetten",
             "emoji": "📼",
             "category": "elektro",
@@ -337,7 +345,7 @@
             "tricky": true
         },
         {
-            "id": 43,
+            "id": 44,
             "name": "Einwegfeuerzeug",
             "emoji": "🔥",
             "category": "rest",
@@ -345,7 +353,7 @@
             "tricky": true
         },
         {
-            "id": 44,
+            "id": 45,
             "name": "Lösungsmittel",
             "emoji": "🧪",
             "category": "schad",
@@ -353,7 +361,7 @@
             "tricky": false
         },
         {
-            "id": 45,
+            "id": 46,
             "name": "Tapetenreste",
             "emoji": "🧱",
             "category": "rest",
@@ -361,7 +369,7 @@
             "tricky": true
         },
         {
-            "id": 46,
+            "id": 47,
             "name": "Fotopapier",
             "emoji": "📸",
             "category": "rest",
@@ -369,7 +377,7 @@
             "tricky": true
         },
         {
-            "id": 47,
+            "id": 48,
             "name": "Blumenerde",
             "emoji": "🪴",
             "category": "bio",
@@ -377,7 +385,7 @@
             "tricky": false
         },
         {
-            "id": 48,
+            "id": 49,
             "name": "Einweg Rasierer",
             "emoji": "🪒",
             "category": "rest",
@@ -385,7 +393,7 @@
             "tricky": true
         },
         {
-            "id": 49,
+            "id": 50,
             "name": "Draht",
             "emoji": "🔗",
             "category": "sperr",
@@ -393,7 +401,7 @@
             "tricky": false
         },
         {
-            "id": 50,
+            "id": 51,
             "name": "Alte Socken",
             "emoji": "🧦",
             "category": "rest",
@@ -401,7 +409,7 @@
             "tricky": false
         },
         {
-            "id": 51,
+            "id": 52,
             "name": "CDs /DVDs",
             "emoji": "💿",
             "category": "elektro",
@@ -409,7 +417,7 @@
             "tricky": false
         },
         {
-            "id": 52,
+            "id": 53,
             "name": "(Diabetis-) Spritzen",
             "emoji": "💉",
             "category": "rest",
